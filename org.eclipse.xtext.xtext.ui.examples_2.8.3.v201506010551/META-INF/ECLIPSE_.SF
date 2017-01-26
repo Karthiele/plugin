@@ -1,0 +1,60 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: tN7Dyc93SGSHI/VWUljRb5SOhQM=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: j+0WxoU27QlSXqb3AgAMZuZUKL4=
+
+Name: contents/org.eclipse.xtext.example.domainmodel.ui.zip
+SHA1-Digest: qiNHSHmCENHx7J3TS5hsiWqP25o=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: contents/org.eclipse.xtext.example.domainmodel.zip
+SHA1-Digest: V7nqGzq5o3E9mYCa/gUGNhpgSrA=
+
+Name: org/eclipse/xtext/xtext/ui/examples/ExternalEditorAwareExampleIn
+ stallerWizard.class
+SHA1-Digest: 3VwNbDa/jf0oA4lrviRt1oYPTFI=
+
+Name: contents/org.eclipse.xtext.example.arithmetics.zip
+SHA1-Digest: tSS6S0cAgtHGxRIKSg2ZL5VIhNk=
+
+Name: contents/xbase.tutorial.zip
+SHA1-Digest: v/X3H2jZ3ew8KOubHlw6PnkeBk4=
+
+Name: contents/org.eclipse.xtext.example.homeautomation.ui.zip
+SHA1-Digest: 2xotzs2zuw9QvnXdD6kSe7X0dGI=
+
+Name: about.html
+SHA1-Digest: ndvVw5+urNOEMhFEsasUKrpQYII=
+
+Name: plugin.properties
+SHA1-Digest: bL1+2/Br5lGYDL9BOGdAw9r8454=
+
+Name: contents/org.eclipse.xtext.example.homeautomation.tests.zip
+SHA1-Digest: nnfs/3DcPqN36L/QXfBlb7ASJTc=
+
+Name: contents/org.eclipse.xtext.example.fowlerdsl.zip
+SHA1-Digest: iA/WCiRGjgLI5xGkxvdWeNWqSE0=
+
+Name: icons/genproject.gif
+SHA1-Digest: BjdB+oTL/YF7xZ+uSk+bKPpldQ4=
+
+Name: contents/org.eclipse.xtext.example.fowlerdsl.ui.zip
+SHA1-Digest: vR+9CjsFuPGZ41r/feHeUEzoDIo=
+
+Name: contents/org.eclipse.xtext.example.domainmodel.tests.zip
+SHA1-Digest: bUTKTJPBwvIFHhBxG1xKKDD3+Js=
+
+Name: contents/org.eclipse.xtext.example.arithmetics.tests.zip
+SHA1-Digest: 9Xdi5HAZivJORYKUFRtBDhaoKzM=
+
+Name: contents/org.eclipse.xtext.example.homeautomation.zip
+SHA1-Digest: Y98Pr8cqGBNuUbyToVjhG2vabgw=
+
+Name: plugin.xml
+SHA1-Digest: xmhkkeJlrR5VejtTtXLMta32fxI=
+
+Name: contents/org.eclipse.xtext.example.arithmetics.ui.zip
+SHA1-Digest: iektds3dtcSatmLGqxKVyZ8qWrk=
+
